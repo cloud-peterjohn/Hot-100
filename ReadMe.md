@@ -1,5 +1,5 @@
 # 目录
-Hot-100题目链接：[here](https://leetcode.cn/problem-list/2cktkvj/)
+Hot-100题目链接：[CLICK HERE](https://leetcode.cn/problem-list/2cktkvj/)
 ---
 ## 哈希表：最实用的数据结构
 
