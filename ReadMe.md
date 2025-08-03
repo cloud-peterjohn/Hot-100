@@ -264,3 +264,4 @@ Hot-100题目链接：[CLICK HERE](https://leetcode.cn/problem-list/2cktkvj/)
 
 - 287.寻找重复数 - 力扣（LeetCode）
 
+Reference: [GitHub](https://github.com/ninjaAlgorithm/LeetCode-Solutions-Hot-100.git)
